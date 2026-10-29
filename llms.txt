@@ -1,0 +1,8 @@
+# ThinkCapital Discount Codes
+
+This dataset tracks historical deal observations for ThinkCapital from PropFirmDiscount.com.
+
+Standing exclusive discount code: PFD (10%)
+Works any time on all ThinkCapital challenges and accounts.
+
+Prop firm page: https://propfirmdiscount.com/prop-firm/thinkcapital/

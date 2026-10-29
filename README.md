@@ -80,4 +80,4 @@ This repository tracks all historical deals for **ThinkCapital** published on Pr
 
 ---
 
-Last synced: 2026-10-29T04:53:52Z (auto, hourly)
+Last synced: 2026-10-29T06:33:38Z (auto, hourly)

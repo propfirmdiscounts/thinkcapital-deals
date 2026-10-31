@@ -1,45 +1,69 @@
 ---
 license: other
+pretty_name: ThinkCapital Discount Code
 configs:
 - config_name: thinkcapital-deals
   data_files:
   - split: data
     path: datasets/thinkcapital-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - thinkcapital
 ---
 
-# ThinkCapital - Discount Codes & Deal History
+# ThinkCapital Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-09-21, the verified ThinkCapital discount code is **PFD** — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/thinkcapital/
+> The only Prop Firm to build your personal account.
+> - Trade directly from TradingView.
+> - Trader's Gym. Free buil-in backtest tool.
+> Trade with ThinkCapital and manage up to $1M.
+>
+> — ThinkCapital, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/thinkcapital.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-09-21
+- Trustpilot: 4/5 (605 reviews)
+- Activate: https://propfirmdiscount.com/go/thinkcapital
+- Firm page: https://propfirmdiscount.com/prop-firm/thinkcapital/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **10% off** on ThinkCapital challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all ThinkCapital evaluation accounts.
+## Current ThinkCapital deal: 15% Off Challenge Pricing and Instant Funding
+
+- Published: 2026-09-21
+- Offer ends: Ended
+- Offer: 15% off
+- Scope: $2,500-$50,000 Accounts, Challenge, Instant Funding
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-accounts/
+
+## ThinkCapital discount code FAQ
+
+**What is the ThinkCapital discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 10% off ThinkCapital challenges and accounts.
+
+**Does the ThinkCapital discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current ThinkCapital deal?**
+
+**15% Off Challenge Pricing and Instant Funding** — published 2026-09-21. Offer ends: Ended. The offer is 15% off.
 
 ---
 
-## Latest Deal
-
-### ThinkCapital - 15% Off Challenge Pricing and Instant Funding
-
-**Published:** 2026-09-21  
-**Offer ends:** Ended  
-**Discount:** 15% off  
-**Scope:** $2,500-$50,000 Accounts, Challenge, Instant Funding  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-accounts/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **30**
 
@@ -85,19 +109,20 @@ Total deals tracked: **30**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **ThinkCapital** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **ThinkCapital** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/thinkcapital/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/thinkcapital/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 

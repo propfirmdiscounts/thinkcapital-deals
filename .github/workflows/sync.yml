@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: thinkcapitall
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: thinkcapital
   DEALSTORE_ID: 135
   FIRM_NAME: ThinkCapital

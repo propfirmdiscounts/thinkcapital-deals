@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: thinkcapital-discount-codes
+  HF_NAMESPACE: thinkcapitall
+  HF_REPO_NAME: thinkcapital-deals
   FIRM_SLUG: thinkcapital
   DEALSTORE_ID: 135
   FIRM_NAME: ThinkCapital

@@ -1,6 +1,6 @@
 # ThinkCapital - Discount Codes & Deal History
 
-As of 2026-09-21, the verified ThinkCapital discount code is PFD — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11-12, the verified ThinkCapital discount code is PFD — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > The only Prop Firm to build your personal account.
 > - Trade directly from TradingView.
@@ -12,21 +12,22 @@ As of 2026-09-21, the verified ThinkCapital discount code is PFD — up to 10% O
 - Code: PFD
 - Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-09-21
+- Last deal published: 2026-11-12
 - Trustpilot: 4/5 (605 reviews)
 - Activate: https://propfirmdiscount.com/go/thinkcapital
 - Firm page: https://propfirmdiscount.com/prop-firm/thinkcapital/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current ThinkCapital deal: 15% Off Challenge Pricing and Instant Funding
+## Current ThinkCapital deal: 40% Off Everything - Black Friday
 
-- Published: 2026-09-21
-- Offer ends: Ended
-- Offer: 15% off
-- Scope: $2,500-$50,000 Accounts, Challenge, Instant Funding
+- Published: 2026-11-12
+- Offer ends: 2026-11-29
+- Offer: 40% off
+- Event: Black Friday
+- Scope: All Challenges
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-accounts/
+- Deal page: https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/
 
 ## ThinkCapital discount code FAQ
 
@@ -40,18 +41,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current ThinkCapital deal?**
 
-**15% Off Challenge Pricing and Instant Funding** — published 2026-09-21. Offer ends: Ended. The offer is 15% off.
+**40% Off Everything - Black Friday** — published 2026-11-12. Offer ends: 2026-11-29. The offer is 40% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **30**
+Total deals tracked: **31**
 
-### 2026 (21 deals)
+### 2026 (22 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-12 | 40% Off Everything - Black Friday | 40% off | 2026-11-29 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/) |
 | 2026-09-21 | 15% Off Challenge Pricing and Instant Funding | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-accounts/) |
 | 2026-09-07 | 20% Off $2,500 - $50,000 Evaluation Accounts | 20% off | Ended | Labor Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/labor-day-20-discount-2500-50000/) |
 | 2026-08-24 | 20% Off $2,500 - $50,000 Evaluation Challenge Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-discount-2500-50000-evaluations/) |

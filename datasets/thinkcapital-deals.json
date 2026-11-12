@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13223,
+    "title": "40% Off Everything - Black Friday",
+    "offer_type": "coupon",
+    "discount_value": "40%",
+    "scope": [
+      "All Challenges"
+    ],
+    "date_published": "2026-11-12",
+    "date_exp": "2026-11-29",
+    "event": "Black Friday",
+    "last_verified": "2026-11-12",
+    "post_url": "https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/",
+    "prop_firm": "ThinkCapital",
+    "prop_firm_slug": "thinkcapital",
+    "standing_code": "PFD",
+    "standing_discount": "10%",
+    "activation_link": "https://propfirmdiscount.com/go/thinkcapital",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/thinkcapital/"
+  },
+  {
     "deal_id": 12695,
     "title": "15% Off Challenge Pricing and Instant Funding",
     "offer_type": "coupon",

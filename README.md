@@ -1,6 +1,6 @@
 # ThinkCapital - Discount Codes & Deal History
 
-As of 2026-11-12, the verified ThinkCapital discount code is PFD — up to 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11, the verified ThinkCapital discount code is PFD — 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > The only Prop Firm to build your personal account.
 > - Trade directly from TradingView.
@@ -10,7 +10,7 @@ As of 2026-11-12, the verified ThinkCapital discount code is PFD — up to 10% O
 > — ThinkCapital, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/thinkcapital.com)
 
 - Code: PFD
-- Discount: Up to 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: 10% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-12
 - Trustpilot: 4/5 (605 reviews)
@@ -33,7 +33,7 @@ As of 2026-11-12, the verified ThinkCapital discount code is PFD — up to 10% O
 
 **What is the ThinkCapital discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 10% off ThinkCapital challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 10% off ThinkCapital challenges and accounts.
 
 **Does the ThinkCapital discount code expire?**
 
@@ -53,42 +53,42 @@ Total deals tracked: **31**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-12 | 40% Off Everything - Black Friday | 40% off | 2026-11-29 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/) |
-| 2026-09-21 | 15% Off Challenge Pricing and Instant Funding | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-accounts/) |
-| 2026-09-07 | 20% Off $2,500 - $50,000 Evaluation Accounts | 20% off | Ended | Labor Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/labor-day-20-discount-2500-50000/) |
-| 2026-08-24 | 20% Off $2,500 - $50,000 Evaluation Challenge Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-discount-2500-50000-evaluations/) |
-| 2026-08-12 | 15% Off $2,500 to $50,000 Trading Challenges | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-youth-day-sale/) |
-| 2026-07-29 | 15% Discount on $2,500 - $50,000 Evaluation Accounts | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-discount-2500-50000/) |
-| 2026-07-03 | 20% Off $2,500 to $50,000 Accounts | 20% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-off-independence-day/) |
-| 2026-06-18 | Father's Day Offer: 20% Off $2,500 - $50,000 Accounts | 20% off | Ended | Father's Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-fathers-day-20-off-accounts/) |
-| 2026-05-27 | Save 20% on Account Purchase Cost for $2,500 to $50K Challenges | 20% off | Ended | Eid al-Adha | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-eid-mubarak-20-off/) |
-| 2026-05-22 | 15% Off Bolt Instant Access Initial Entry Fee | 15% off | Ended | Memorial Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-bolt-instant-funding-discount/) |
-| 2026-05-08 | 15% Discount on $5K to $50K Evaluation Accounts for Mother's Day | 15% off | Ended | Mother's Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-discount-5k-50k-mothers-day/) |
-| 2026-04-29 | 15% Off $50K Evaluation Accounts | 15% off | Ended | International Worker's Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-50k-challenges/) |
-| 2026-04-29 | 25% Off $5K to $25K Evaluation Accounts | 25% off | Ended | International Worker's Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-25-off-5k-25k-challenges/) |
-| 2026-04-23 | 20% Off Initial Evaluation Account Purchase | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/20-percent-off-first-thinktrader-challenge/) |
-| 2026-04-03 | 25% Reduction on 5K-25K Challenge Pricing | 25% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-25-off-5k-25k-easter/) |
-| 2026-03-22 | 20% Off Evaluation Challenges | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-discount-evaluation-accounts/) |
-| 2026-03-20 | 20% Off 5K to 50K Evaluation Accounts for Eid Al-Fitr | 20% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-off-5k-50k-eid-al-fitr/) |
-| 2026-03-08 | 25% Off All Challenges for International Women's Day | 25% off | Ended | International Women's Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/25-percent-off-all-challenges-international-womens-day/) |
-| 2026-03-03 | 20% Off All Evaluation Accounts For Holi | 20% off | Ended | Holi Festival | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-off-holi-promotion/) |
-| 2026-02-17 | 25% Off All Evaluation Accounts During Ramadan Promo | 25% off | Ended | Ramadan | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-ramadan-25-percent-off/) |
-| 2026-02-13 | 20% Price Reduction on Trading Challenges | 20% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-valentines-day-deal-20-percent-off/) |
-| 2026-01-20 | 25% Off Entry Fee + TradingView Giveaway | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-mlk-day-25-off/) |
+| 2026-11-12 | ThinkCapital: 40% Off Everything - Black Friday | 40% off | 2026-11-29 | Black Friday | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/) |
+| 2026-09-21 | ThinkCapital: 15% Off Challenge Pricing and Instant Funding | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-accounts/) |
+| 2026-09-07 | ThinkCapital: 20% Off $2,500 - $50,000 Evaluation Accounts | 20% off | Ended | Labor Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/labor-day-20-discount-2500-50000/) |
+| 2026-08-24 | ThinkCapital: 20% Off $2,500 - $50,000 Evaluation Challenge Pricing | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-discount-2500-50000-evaluations/) |
+| 2026-08-12 | ThinkCapital: 15% Off $2,500 to $50,000 Trading Challenges | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-youth-day-sale/) |
+| 2026-07-29 | ThinkCapital: 15% Discount on $2,500 - $50,000 Evaluation Accounts | 15% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-discount-2500-50000/) |
+| 2026-07-03 | ThinkCapital: 20% Off $2,500 to $50,000 Accounts | 20% off | Ended | Independence Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-off-independence-day/) |
+| 2026-06-18 | ThinkCapital: Father's Day Offer: 20% Off $2,500 - $50,000 Accounts | 20% off | Ended | Father's Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-fathers-day-20-off-accounts/) |
+| 2026-05-27 | ThinkCapital: Save 20% on Account Purchase Cost for $2,500 to $50K Challenges | 20% off | Ended | Eid al-Adha | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-eid-mubarak-20-off/) |
+| 2026-05-22 | ThinkCapital: 15% Off Bolt Instant Access Initial Entry Fee | 15% off | Ended | Memorial Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-bolt-instant-funding-discount/) |
+| 2026-05-08 | ThinkCapital: 15% Discount on $5K to $50K Evaluation Accounts for Mother's Day | 15% off | Ended | Mother's Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-discount-5k-50k-mothers-day/) |
+| 2026-04-29 | ThinkCapital: 15% Off $50K Evaluation Accounts | 15% off | Ended | International Worker's Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-15-off-50k-challenges/) |
+| 2026-04-29 | ThinkCapital: 25% Off $5K to $25K Evaluation Accounts | 25% off | Ended | International Worker's Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-25-off-5k-25k-challenges/) |
+| 2026-04-23 | ThinkCapital: 20% Off Initial Evaluation Account Purchase | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/20-percent-off-first-thinktrader-challenge/) |
+| 2026-04-03 | ThinkCapital: 25% Reduction on 5K-25K Challenge Pricing | 25% off | Ended | Easter | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-25-off-5k-25k-easter/) |
+| 2026-03-22 | ThinkCapital: 20% Off Evaluation Challenges | 20% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-discount-evaluation-accounts/) |
+| 2026-03-20 | ThinkCapital: 20% Off 5K to 50K Evaluation Accounts for Eid Al-Fitr | 20% off | Ended | Eid Al-Fitr | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-off-5k-50k-eid-al-fitr/) |
+| 2026-03-08 | ThinkCapital: 25% Off All Challenges for International Women's Day | 25% off | Ended | International Women's Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/25-percent-off-all-challenges-international-womens-day/) |
+| 2026-03-03 | ThinkCapital: 20% Off All Evaluation Accounts For Holi | 20% off | Ended | Holi Festival | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-20-off-holi-promotion/) |
+| 2026-02-17 | ThinkCapital: 25% Off All Evaluation Accounts During Ramadan Promo | 25% off | Ended | Ramadan | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-ramadan-25-percent-off/) |
+| 2026-02-13 | ThinkCapital: 20% Price Reduction on Trading Challenges | 20% off | Ended | Valentine's Day | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-valentines-day-deal-20-percent-off/) |
+| 2026-01-20 | ThinkCapital: 25% Off Entry Fee + TradingView Giveaway | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-mlk-day-25-off/) |
 
 ### 2025 (9 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2025-12-12 | 12 Days of Christmas: 30% OFF + Free Challenge | 30% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-12-days-of-christmas-30-off/) |
-| 2025-12-01 | Cyber Monday Offer: 38% OFF + Free Challenge at Payout | 38% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-cyber-monday-38-off-free-challenge/) |
-| 2025-11-28 | Black Friday Sale: 40% OFF + Free Challenge Reward | 40% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-black-friday-40-off-free-challenge/) |
-| 2025-11-22 | Thanksgiving Special: 25% Off All Challenges | 25% off | Ended | Thanksgiving | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-thanksgiving-25-off-challenges/) |
-| 2025-11-12 | 30% OFF All Challenges (Nov 10–17) + $10 Donation to WWP per Purchase | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-30-off-all-challenges-nov-10-17-donate-10-wwp/) |
-| 2025-10-20 | Diwali: 35% OFF on 5K–50K Challenges (Oct 20–26) | 35% off | Ended | Diwali | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-diwali-35-off-on-5k-50k-challenges-oct-20-26/) |
-| 2025-10-15 | 30% OFF All Challenges (Canadian Thanksgiving, Ends Oct 20) | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-30-off-all-challenges-canadian-thanksgiving-ends-oct-20/) |
-| 2025-10-09 | 25% Off All Challenges + Win 3 Months of TradingView Essential (50 Winners) | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-25-off-all-challenges-win-3-months-of-tradingview-essential-50-winners/) |
-| 2025-09-26 | 30% OFF All Challenges + Free Same-Size Challenge on Payout + Free 10K Nexus | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-30-off-all-challenges-free-same-size-challenge-on-payout-free-10k-nexus-ends-sept-30/) |
+| 2025-12-12 | ThinkCapital: 12 Days of Christmas: 30% OFF + Free Challenge | 30% off | Ended | Christmas | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-12-days-of-christmas-30-off/) |
+| 2025-12-01 | ThinkCapital: Cyber Monday Offer: 38% OFF + Free Challenge at Payout | 38% off | Ended | Cyber Monday | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-cyber-monday-38-off-free-challenge/) |
+| 2025-11-28 | ThinkCapital: Black Friday Sale: 40% OFF + Free Challenge Reward | 40% off | Ended | Black Friday | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-black-friday-40-off-free-challenge/) |
+| 2025-11-22 | ThinkCapital: Thanksgiving Special: 25% Off All Challenges | 25% off | Ended | Thanksgiving | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-thanksgiving-25-off-challenges/) |
+| 2025-11-12 | ThinkCapital: 30% OFF All Challenges (Nov 10–17) + $10 Donation to WWP per Purchase | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-30-off-all-challenges-nov-10-17-donate-10-wwp/) |
+| 2025-10-20 | ThinkCapital: Diwali: 35% OFF on 5K–50K Challenges (Oct 20–26) | 35% off | Ended | Diwali | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-diwali-35-off-on-5k-50k-challenges-oct-20-26/) |
+| 2025-10-15 | ThinkCapital: 30% OFF All Challenges (Canadian Thanksgiving, Ends Oct 20) | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-30-off-all-challenges-canadian-thanksgiving-ends-oct-20/) |
+| 2025-10-09 | ThinkCapital: 25% Off All Challenges + Win 3 Months of TradingView Essential (50 Winners) | 25% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-25-off-all-challenges-win-3-months-of-tradingview-essential-50-winners/) |
+| 2025-09-26 | ThinkCapital: 30% OFF All Challenges + Free Same-Size Challenge on Payout + Free 10K Nexus | 30% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-30-off-all-challenges-free-same-size-challenge-on-payout-free-10k-nexus-ends-sept-30/) |
 
 ---
 

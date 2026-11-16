@@ -1,6 +1,6 @@
 # ThinkCapital - Discount Codes & Deal History
 
-As of November 2026, the verified ThinkCapital discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified ThinkCapital discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. The newest is "40% Off Everything - Black Friday".
 
 > The only Prop Firm to build your personal account.
 > - Trade directly from TradingView.
@@ -14,11 +14,11 @@ As of November 2026, the verified ThinkCapital discount code is PFD — 10% OFF,
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-12
 - Trustpilot: [4/5 (605 reviews)](https://www.trustpilot.com/review/thinkcapital.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/thinkcapital-deals](https://github.com/propfirmdiscounts/thinkcapital-deals)
-- Activate: [https://propfirmdiscount.com/go/thinkcapital](https://propfirmdiscount.com/go/thinkcapital)
-- Firm page: [https://propfirmdiscount.com/prop-firm/thinkcapital/](https://propfirmdiscount.com/prop-firm/thinkcapital/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [ThinkCapital Deals Repository](https://github.com/propfirmdiscounts/thinkcapital-deals)
+- Activate: [Activate ThinkCapital Discount Code](https://propfirmdiscount.com/go/thinkcapital)
+- Firm page: [ThinkCapital Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/thinkcapital/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [ThinkCapital API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current ThinkCapital deal: 40% Off Everything - Black Friday
 
@@ -28,7 +28,7 @@ As of November 2026, the verified ThinkCapital discount code is PFD — 10% OFF,
 - Event: Black Friday
 - Scope: All Challenges
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/)
+- Deal page: [ThinkCapital Deal Page](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/)
 
 ## ThinkCapital discount code FAQ
 
@@ -97,9 +97,9 @@ Total deals tracked: **31**
 
 This repository mirrors every deal **ThinkCapital** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/thinkcapital/](https://propfirmdiscount.com/prop-firm/thinkcapital/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [ThinkCapital Profile](https://propfirmdiscount.com/prop-firm/thinkcapital/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/thinkcapital-deals.json`
 
@@ -142,4 +142,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).

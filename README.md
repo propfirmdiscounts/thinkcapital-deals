@@ -1,6 +1,6 @@
 # ThinkCapital - Discount Codes & Deal History
 
-As of 2026-11, the verified ThinkCapital discount code is PFD — 10% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified ThinkCapital discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
 
 > The only Prop Firm to build your personal account.
 > - Trade directly from TradingView.

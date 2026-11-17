@@ -1,4 +1,4 @@
-# ThinkCapital Discount Code & Deal History
+# ThinkCapital Discount Code, Deals History & Dataset
 
 As of November 2026, the verified ThinkCapital discount code is PFD — 10% OFF, which can be applied on the checkout page anytime. The newest is "40% Off Everything - Black Friday".
 
@@ -14,7 +14,7 @@ As of November 2026, the verified ThinkCapital discount code is PFD — 10% OFF,
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-12
 - Trustpilot: [4/5 (605 reviews)](https://www.trustpilot.com/review/thinkcapital.com)
-- GitHub repository: [ThinkCapital Deals Repository](https://github.com/propfirmdiscounts/thinkcapital-deals)
+- GitHub repository: [ThinkCapital Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/thinkcapital-deals)
 - Activate: [Activate ThinkCapital Discount Code](https://propfirmdiscount.com/go/thinkcapital)
 - Firm page: [ThinkCapital Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/thinkcapital/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -30,7 +30,7 @@ As of November 2026, the verified ThinkCapital discount code is PFD — 10% OFF,
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [ThinkCapital Deal Page](https://propfirmdiscount.com/deals/thinkcapital/thinkcapital-40-off-everything-black-friday/)
 
-## ThinkCapital Discount Code & Deals FAQ
+## ThinkCapital Discount Code & Deals History FAQ
 
 **What is the ThinkCapital discount code?**
 
@@ -46,7 +46,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## ThinkCapital Deal History
+## ThinkCapital Deals History
 
 Total deals tracked: **31**
 
@@ -93,7 +93,7 @@ Total deals tracked: **31**
 
 ---
 
-## About the ThinkCapital Deals Dataset
+## About the ThinkCapital Discount Code & Deals History Dataset
 
 This repository mirrors every deal **ThinkCapital** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -101,7 +101,7 @@ This repository mirrors every deal **ThinkCapital** has published on PropFirmDis
 - Prop firm profile: [ThinkCapital Profile](https://propfirmdiscount.com/prop-firm/thinkcapital/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## ThinkCapital Deal Dataset: Field Definitions
+## ThinkCapital Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the

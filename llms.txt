@@ -1,4 +1,4 @@
-# ThinkCapital Discount Codes
+# ThinkCapital Discount Code & Deals History
 
 This dataset tracks historical deal observations for ThinkCapital from PropFirmDiscount.com.
 
